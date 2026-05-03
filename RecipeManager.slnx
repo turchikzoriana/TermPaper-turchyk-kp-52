@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RecipeManager.Domain/RecipeManager.Domain.csproj" />
+  <Project Path="RecipeManager.Infrastructure/RecipeManager.Infrastructure.csproj" />
+</Solution>
